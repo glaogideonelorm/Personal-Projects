@@ -1,20 +1,17 @@
-# Personal-Projects
-<h1 align="center">Hi 👋, I'm Glago Gideon Elorm</h1>
-<h3 align="center">A passionate cybersecurity freshman looking to gain more knowledge and experience</h3>
+<h1 align="center">Personal projects on Digital forensic and Penetration testing</h1>
+<h3 align="center">Mock cases and systems used with no relations to real persons or organizations</h3>
 
-- 🌱 I’m currently learning **Black box penetration, Security Operations(Threat hunting)**
+- Concerning Penetration testing project , it was a black box test on an OWASP-BWA to find and exploit vulnerabilites
 
-- 👯 I’m looking to collaborate on **any project regarding Digital forensics**
+- The file in this repository contains a detailed documentation **of all findings in a step by step procedure**
 
-- 👨‍💻 All of my projects are available at [https://github.com/glaogideonelorm/Personal-Projects](https://github.com/glaogideonelorm/Personal-Projects)
+- This lead to the retrieval of sensitive data concerning the mock bank and gaining administrative priviledges to the system
 
-- 💬 Ask me about **Burpsuite, Metaspolit, Nmap**
+- I was also able to retrieve credentials of the all empployees and people associated with the bank as well as editing them
 
-- 📫 How to reach me **glagogideonelorm2006@gmail.com**
+- Concerning my work in Digital Foresics ,a mock case was investigated on where an employee was suspected of intentionally compromising the CIA of his employers
 
-- 📄 Know about my experiences [Gideon's Resume .docx](Gideon's Resume .docx)
-
-- ⚡ Fun fact **I seriously think I'm funny;)**
+- I made use of several forensics tools such as FTK and autopsy to extract information on the system. I was also able to find deleted files which served as evidence against the suspect
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +20,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
